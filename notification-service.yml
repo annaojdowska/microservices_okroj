@@ -7,7 +7,7 @@ spring:
 
 server:
   servlet:
-    context-path: /accounts
+    context-path: /notifications
 
 feign:
   hystrix:
